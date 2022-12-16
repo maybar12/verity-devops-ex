@@ -7,8 +7,7 @@ pipeline {
 			 sh 'mvn clean'
 	                 }
 		}
-		// ******ALL CODE TO BE ADDED BELOW THIS COMMENT******
-<<<<<<< HEAD
+		// ******pruebas¨¨<<<<<<< HEAD
        stage('Clean') {
             steps {
                 sh 'mvn clean'
